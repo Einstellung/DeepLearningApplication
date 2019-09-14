@@ -33,17 +33,17 @@ data文件夹下，用来存储数据集。checkpoints文件夹用来存储D和G
 
 ## 模型训练
 
-```python
+```bash
 python main.py train --gpu --vis=False
 ```
 
 当训练第10次的时候，效果如下：
 
-![](pciture\imgs9.png)
+![](https://github.com/Einstellung/DeepLearningApplication/blob/master/DCGAN_ACG/pciture/imgs9.png)
 
 当训练到第200次的时候
 
-![](pciture\imgs199.png)
+![](https://github.com/Einstellung/DeepLearningApplication/blob/master/DCGAN_ACG/pciture/imgs199.png)
 
 看起来效果要明显好很多了。
 
