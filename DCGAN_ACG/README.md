@@ -33,7 +33,7 @@ data文件夹下，用来存储数据集。checkpoints文件夹用来存储D和G
 
 ## 模型训练
 
-```python
+```bash
 python main.py train --gpu --vis=False
 ```
 
