@@ -7,4 +7,3 @@
   ### 生成对抗网络
 
   - [DCGAN生成二次元人物头像](https://github.com/Einstellung/DeepLearningApplication/tree/master/DCGAN_ACG) PyTorch实现
-
