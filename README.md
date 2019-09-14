@@ -2,8 +2,8 @@
 
   ### 人脸识别相关
 
- - [微笑检测识别](https://github.com/Einstellung/DeepLearningApplication/tree/master/Smile_Detection)
+  - [微笑检测识别](https://github.com/Einstellung/DeepLearningApplication/tree/master/Smile_Detection)
 
   ### 生成对抗网络
 
-- [DCGAN生成二次元人物头像](https://github.com/Einstellung/DeepLearningApplication/tree/master/DCGAN_ACG) PyTorch实现
+ - [DCGAN生成二次元人物头像](https://github.com/Einstellung/DeepLearningApplication/tree/master/DCGAN_ACG) PyTorch实现
